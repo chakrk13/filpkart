@@ -1,6 +1,5 @@
-s file contains deplyent scrip
+s file contains deplyent scripG
+Git stech example
 
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiit
-
-
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiig
 iiiiiiiiiiiiiiiiiiiii
